@@ -1,0 +1,1 @@
+1	Violin	ADSR_A=0.15; ADSR_D=0.45; ADSR_S=1; ADSR_R=0.05;

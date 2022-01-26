@@ -30,15 +30,16 @@ InstrumentDumb::InstrumentDumb(const std::string &param)
   for (int i=0; i < N ; ++i) {
     tbl[i] = sin(phase);
     phase += step;
+    //cout << i << " " << x[i] << endl;
   }
 }
-
 
 void InstrumentDumb::command(long cmd, long note, long vel) {
   if (cmd == 9) {		//'Key' pressed: attack begins
     bActive = true;
     adsr.start();
     index = 0;
+
 	A = vel / 127.;
   }
   else if (cmd == 8) {	//'Key' released: sustain ends, release begins

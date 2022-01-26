@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://musescore.com/
+HostUrl=https://s3.ultimate-guitar.com/musescore.scoredata/score/9/2/2/62229/score_84779_b51123074eb3cce52e30ab394c34399b39ccc374.mscz?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4SHNMJS3MTR9XKK7ULEP%2F20220126%2Fus-west%2Fs3%2Faws4_request&X-Amz-Date=20220126T221750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=370d7e23534ad2a207075fd9fc32fdb8c198fe2e0b9f4c1c2b33541040b6b356

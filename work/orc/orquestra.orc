@@ -1,0 +1,8 @@
+5	seno	ADSR_A=0.02; ADSR_D=0.1; ADSR_S=0.4; ADSR_R=0.1; N=40;
+4   Bass   ADSR_A=0.1; ADSR_D=4; ADSR_S=6; ADSR_R=0.0;   
+3   Guitar   ADSR_A=0.1; ADSR_D=4; ADSR_S=6; ADSR_R=0.0;
+0   Piano   ADSR_A=0.1; ADSR_D=0; ADSR_S=0; ADSR_R=0;    
+1   Fm  N1=13;  N2=80; I=0.2;  ADSR_A=0.7; ADSR_D=3; ADSR_S=6; ADSR_R=0.01;
+6   Fm  N1=33;  N2=80; I=1;  ADSR_A=0.7; ADSR_D=3; ADSR_S=6; ADSR_R=0.01;  
+2	Violin	ADSR_A=0.15; ADSR_D=0.45; ADSR_S=1; ADSR_R=0.05;
+
